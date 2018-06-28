@@ -8,7 +8,6 @@ In particular, our prototype is made of these components:
 * A 3G USB Dongle with a SIM card for internet connectivity.
 * A frontal speaker to reproduce audio.
 * A power bank battery to power the other components.
-
 Of course, there is also a web server that, asynchronously, fetches the news through an external service (NewsAPI https://newsapi.org/) and converts them using Google Text-To-Speech service (https://github.com/zlargon/google-tts).
 
-This is part of a university project called "Joni" developed by a team of Trento University's students for the Business Development Lab and ICT Innovation courses.  
+*Note:* The server was developed, together with the client API, by xGioe (https://github.com/xGioe)
