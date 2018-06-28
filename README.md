@@ -14,7 +14,7 @@ Of course, there is also a web server that, asynchronously, fetches the news thr
 
 #### Pictures
 
-![Hardware Sketch1](./repo_resources/sketch.png)
+![Hardware Sketch1](./repo_resources/sketch1.png)
 
 ![Hardware Sketch2](./repo_resources/sketch2.png)
 
